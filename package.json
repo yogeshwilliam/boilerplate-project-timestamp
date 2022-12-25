@@ -1,5 +1,5 @@
 {
-  "name": "fcc-api-projects-boilerplate",
+  "name": "index.js",
   "version": "0.0.1",
   "description": "An FCC Backend Challenge",
   "main": "index.js",
@@ -8,11 +8,12 @@
   },
   "dependencies": {
     "express": "^4.12.4",
-    "cors": "^2.8.0"
+    "cors": "^2.8.0",
+    "dotenv": "^16.0.1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/freeCodeCamp/boilerplate-project-timestamp.git"
+    "url": "git+https://github.com/freeCodeCamp/boilerplate-project-timestamp.git"
   },
   "bugs": {
     "url": "https://github.com/freeCodeCamp/freeCodeCamp/issues"
